@@ -27,7 +27,7 @@ TenorGifs is a Python tool that automatically generates relevant GIFs from video
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/TenorGifs.git
+   git clone https://github.com/Flizyx/TenorGifs
    cd TenorGifs
    ```
 
