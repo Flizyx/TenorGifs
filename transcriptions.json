@@ -1,0 +1,5 @@
+[
+    {"timestamp": 0.0, "words": ["Hello", "world!"]},
+    {"timestamp": 2.5, "words": ["Machine", "learning", "is", "amazing"]},
+    {"timestamp": 5.0, "words": ["Neural", "networks", "are", "powerful"]}
+]
